@@ -1,3 +1,3 @@
 # quiz-template
 
-This template can directly goes into P2P.
+This template can directly go into P2P.
